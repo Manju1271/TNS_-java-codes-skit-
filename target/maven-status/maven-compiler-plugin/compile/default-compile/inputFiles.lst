@@ -1,0 +1,10 @@
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\CollegePlacementApplication.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\controller\CollegeController.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\controller\GlobalExceptionHandler.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\entity\College.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\entity\Placement.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\repository\CollegeRepository.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\repository\PlacementRepository.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\service\CollegeServiceImpl.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\service\ICollegeService.java
+C:\Users\annap\OneDrive\Desktop\project tns\src\main\java\org\tnsif\accenture\c2tc\college\service\ResourceNotFoundException.java

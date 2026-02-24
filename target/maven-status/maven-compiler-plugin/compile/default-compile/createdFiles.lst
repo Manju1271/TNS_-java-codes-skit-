@@ -1,0 +1,10 @@
+org\tnsif\accenture\c2tc\college\service\ResourceNotFoundException.class
+org\tnsif\accenture\c2tc\college\entity\College.class
+org\tnsif\accenture\c2tc\college\entity\Placement.class
+org\tnsif\accenture\c2tc\college\repository\CollegeRepository.class
+org\tnsif\accenture\c2tc\college\controller\CollegeController.class
+org\tnsif\accenture\c2tc\college\service\ICollegeService.class
+org\tnsif\accenture\c2tc\college\CollegePlacementApplication.class
+org\tnsif\accenture\c2tc\college\service\CollegeServiceImpl.class
+org\tnsif\accenture\c2tc\college\controller\GlobalExceptionHandler.class
+org\tnsif\accenture\c2tc\college\repository\PlacementRepository.class
